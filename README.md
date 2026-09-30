@@ -1,29 +1,20 @@
-# Signature mail — Léa Dulac
+# Signatures mail Quarks
 
-Signature de **400 × 150 pixels**, d’après le modèle fourni, avec le visuel du nom et le bloc Quarks / DBM du dépôt.
+Les cinq signatures de l’équipe sont rangées dans `signatures/`, un dossier par personne. Chaque dossier contient :
 
-## Fichiers
+- `index.html` pour prévisualiser la signature localement ;
+- `signature.html` à copier dans le logiciel de messagerie ;
+- `signature.png` en 400 × 150 px et `signature@3x.png` en 1200 × 450 px (affichage recommandé : 400 × 150 px) ;
+- `identite.png`, le nom fourni sur fond transparent.
 
-- `index.html` : aperçu local, avec les images du dossier.
-- `signature.html` : signature HTML à copier dans une messagerie ; les images utilisent des adresses publiques absolues GitHub.
-- `signature-lea-dulac.png` : export de 400 × 150 pixels.
-- `signature-lea-dulac@3x.png` : export haute définition de 1200 × 450 pixels, à insérer avec une taille d’affichage de 400 × 150 pixels.
-- `nape.png` : visuel du nom fourni, conservé.
-- `white_logotype.svg` : logos vectoriels fournis, conservés.
-- `logos-quarks-dbm.png` : version PNG des deux logos pour les messageries.
+## Équipe
 
-## Installation
+| Dossier | Rôle | Téléphone | E-mail |
+|---|---|---|---|
+| [Alexandre Nelzy](signatures/alexandre-nelzy/) | Talent Manager | 06 51 01 97 18 | alexandre@agencequarks.com |
+| [Eva Longuechaud](signatures/eva-longuechaud/) | Talent Manager | 06 52 48 66 09 | eva@agencequarks.com |
+| [Louise Lesage](signatures/louise-lesage/) | Talent Manager | 07 70 06 61 20 | louise@agencequarks.com |
+| [Sarah Meunier](signatures/sarah-meunier/) | Talent Manager | 06 29 25 49 96 | sarah@agencequarks.com |
+| [Léa Dulac](signatures/lea-dulac/) | Talent Manager / Responsable New Business | 06 08 55 60 35 | lea@agencequarks.com |
 
-Télécharger `signature.html`, l’ouvrir dans un navigateur, sélectionner la signature rendue, la copier puis la coller dans les paramètres de signature de la messagerie. Ne pas copier le code source. Les images distantes doivent être autorisées par la messagerie.
-
-Pour un rendu visuel fixe, insérer le PNG haute définition et régler sa taille d’affichage à **400 × 150 px**. Une image seule ne conserve pas les liens individuels du téléphone et de l’adresse e-mail.
-
-Le HTML utilise des tableaux et des styles intégrés. Les coins arrondis peuvent être ignorés par certaines versions d’Outlook ; le PNG conserve le rendu complet. Le rendu a été vérifié dans Chromium (dimensions, images et absence de débordement), pas dans chaque client mail.
-
-## Coordonnées
-
-- Talent Manager
-- Responsable New Business
-- 06 08 55 60 35
-- lea@agencequarks.com
-- https://agencequarks.com
+Les images de logos partagées restent à la racine du dépôt pour éviter de les dupliquer dans chaque dossier. Les signatures utilisent le GIF animé hébergé par ce dépôt.
