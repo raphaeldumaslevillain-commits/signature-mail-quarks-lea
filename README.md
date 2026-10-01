@@ -14,7 +14,7 @@ Les six signatures de l’équipe sont rangées dans `signatures/`, un dossier p
 | [Alexandre Nelzy](signatures/alexandre-nelzy/) | Talent Manager | 06 51 01 97 18 | alexandre@agencequarks.com |
 | [Eva Longuechaud](signatures/eva-longuechaud/) | Talent Manager | 06 52 48 66 09 | eva@agencequarks.com |
 | [Louise Lesage](signatures/louise-lesage/) | Talent Manager | 07 70 06 61 20 | louise@agencequarks.com |
-| [Sarah Meunier](signatures/sarah-meunier/) | Talent Manager | 06 29 25 49 96 | sarah@agencequarks.com |
+| [Sarah Meunier](signatures/sarah-meunier/) · [copie centrée](signatures/Sarah%20signa%20centr%C3%A9e/) | Talent Manager | 06 29 25 49 96 | sarah@agencequarks.com |
 | [Léa Dulac](signatures/lea-dulac/) | Talent Manager / Responsable New Business | 06 08 55 60 35 | lea@agencequarks.com |
 | [Emilie Leguinec](signatures/emilie-leguinec/) | Founder Quarks / Membre UMICC | 06 08 45 59 30 | emilie@agencequarks.com |
 
